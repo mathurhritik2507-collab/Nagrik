@@ -1,50 +1,173 @@
-# Welcome to your Expo app 👋
+# Nagrik 🇮🇳
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+AI-powered civic engagement platform focused on real-world civic participation, gamification, and community-driven public impact.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Overview
 
-   ```bash
-   npm install
-   ```
+Nagrik is a modern civic-tech mobile application designed to encourage citizens to actively participate in improving their communities through verified civic actions, civic issue reporting, gamified challenges, and AI-assisted engagement.
 
-2. Start the app
+The platform transforms civic participation into an interactive experience by combining:
+- AI assistance
+- Civic gamification
+- XP & reward systems
+- Civic streaks
+- Community engagement
+- Real-world action verification
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## ✨ Features
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 📸 Civic Action Uploads
+Users can upload positive civic actions such as:
+- Cleaning public spaces
+- Plantation drives
+- Community volunteering
+- Traffic assistance
+- Public awareness campaigns
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+### 🚨 Civic Issue Reporting
+Users can report:
+- Garbage issues
+- Road damage
+- Water leakage
+- Traffic problems
+- Public safety concerns
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
+### 🎯 Proof-Based Civic Challenges
+Daily and weekly civic missions requiring:
+- Real participation
+- Photo proof verification
+- Challenge completion tracking
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+### 🤖 AI Civic Assistant
+Integrated AI assistant provides:
+- Civic awareness guidance
+- Public participation suggestions
+- Smart engagement recommendations
+- Civic learning support
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### 🏆 Gamification System
+The application includes:
+- XP system
+- Civic levels
+- Achievement badges
+- Participation streaks
+- Civic score calculation
+- Community rankings
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+### 🔔 Engagement Notifications
+Users receive:
+- Streak reminders
+- Challenge updates
+- Civic participation notifications
+- Engagement prompts
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## 📱 Platforms
+
+- Android ✅
+- iOS ✅ (Expo Go / Preview)
+- Cross-platform mobile architecture
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React Native
+- Expo Router
+- JavaScript
+
+### Backend & Cloud
+- Firebase Authentication
+- Firestore Architecture
+- AsyncStorage
+
+### Mobile Features
+- Expo Notifications
+- Expo Image Picker
+- Camera Integration
+
+---
+
+## 🎨 UI/UX Focus
+
+Nagrik was designed with:
+- Modern mobile-first UI
+- High engagement flow
+- Orange civic branding
+- Gamified interaction psychology
+- Simple civic onboarding
+- Community-driven design principles
+
+---
+
+## 📸 Application Screenshots
+
+### Home Dashboard
+Modern civic engagement dashboard with XP tracking and quick actions.
+
+### Upload Actions
+Users can upload civic contributions with image proof and descriptions.
+
+### Challenges
+Proof-based civic challenge system encouraging real-world participation.
+
+### Civic Impact
+City rankings, civic health insights, and participation analytics.
+
+### Profile System
+Civic score, achievements, level system, and engagement history.
+
+---
+
+## 🔮 Future Roadmap
+
+- Real-time Firestore synchronization
+- Civic heatmaps
+- AI moderation system
+- Real-time community feed
+- Reward marketplace
+- Smart civic analytics
+- Public leaderboards
+- Community volunteer groups
+- Government integration support
+
+---
+
+## 👨‍💻 Author
+
+### Hritik Mathur
+
+MS in Data Science  
+Pace University, New York
+
+Former Network Engineer with 3+ years of experience transitioning into AI, Data Science, and full-stack product development.
+
+---
+
+## 📌 Project Vision
+
+Nagrik aims to bridge the gap between citizens and civic responsibility by making public participation engaging, rewarding, and technology-driven.
+
+The long-term vision is to create a scalable civic ecosystem that encourages measurable real-world community impact.
+
+---
+
+## ⭐ Status
+
+Currently in active development and beta testing.
